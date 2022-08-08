@@ -37,10 +37,10 @@
 - class_name: 网盘外链
   class_desc: 一些仅供学习使用的资源或软件。为了避免某度网盘限速恶心人，我们尽量使用123网盘和蓝奏云，麻烦了一点，没用过的友友们请自己下载注册一下
   link_list:
-    - name: CleverPDF
-      link: https://www.cleverpdf.com/cn
-      avatar: /img/CleverPDF.png
-      descr: Office在线转PDF
+    - name: 123网盘
+      link: https://www.123pan.com/Downloadclient
+      avatar: /img/123.png
+      descr: 123网盘下载
       
 - class_name: 良心网站
   class_desc: 含泪推荐
