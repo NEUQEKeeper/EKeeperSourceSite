@@ -1,0 +1,24 @@
+- class_name: test1
+  class_desc: hahaha
+  link_list:
+    - name: wdnmd
+      link: https://northboat.github.io/
+      avatar: /img/417eabf591522daa.jpg
+      descr: 提取码:4399
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 提取码:1111
+- class_name: test2
+  class_desc: sad
+  link_list:
+    - name: wdnmd
+      link: https://northboat.github.io/
+      avatar: /img/417eabf591522daa.jpg
+      descr: 提取码:0000
+    - name: Twitter
+      link: https://twitter.com/
+      avatar: https://i.loli.net/2020/05/14/5VyHPQqR6LWF39a.png
+      descr: 提取码:1234
+
+
