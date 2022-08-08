@@ -102,8 +102,8 @@ theme: butterfly
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 
-deploy:
-  type: git
-  repository: git@github.com:NEUQEKeeper/eKeeperSourceSite.git
-  branch: master
+#deploy:
+#  type: git
+#  repository: git@github.com:NEUQEKeeper/eKeeperSourceSite.git
+#  branch: master
 
