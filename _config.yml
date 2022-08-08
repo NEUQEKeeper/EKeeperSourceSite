@@ -103,6 +103,6 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: https://gitee.com/neuqekeeper/NEUQEKeeper.gitee.io.git
+  repository: git@github.com:NEUQEKeeper/eKeeperSourceSite.git
   branch: master
 
