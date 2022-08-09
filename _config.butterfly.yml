@@ -89,7 +89,7 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: /img/avatar.jpg
+  img: https://s1.ax1x.com/2022/08/09/v1et3V.jpg
   effect: false
 
 # Disable all banner image
