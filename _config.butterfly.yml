@@ -173,7 +173,7 @@ wordcount:
 # 3: auto_excerpt (default)
 # false: do not show the article introduction
 index_post_content:
-  method: 3
+  method: 1
   length: 500 # if you set method to 2 or 3, the length need to config
 
 # anchor
@@ -708,8 +708,8 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: false
-  start_date: 8/7/2022 00:00:00
+  enable: true
+  start_date: 8/7/2022 00:00:000
 
 # Aside widget - Newest Comments
 newest_comments:
