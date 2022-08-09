@@ -132,11 +132,14 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-     - https://img.paulzzh.com/touhou/konachan/jpeg/5885ac1317c9144b25addd664812efe2.jpg
-     - https://img.paulzzh.com/touhou/konachan/image/cfa89da39272ae34bf926ad1e615ec3f.jpg
-     - https://img.paulzzh.com/touhou/konachan/jpeg/26e045ad598a36478d9d74f6ce8091a2.jpg
-     - https://img.paulzzh.com/touhou/konachan/image/409139a4837afde0d7a4df658feb8ea6.jpg
-     - https://img.paulzzh.com/touhou/konachan/image/df8eaece8e703dec79d02e9c1bd93377.jpg
+     - https://s1.ax1x.com/2022/08/09/v1RhLt.png
+     - https://s1.ax1x.com/2022/08/09/v1RfsI.png
+     - https://s1.ax1x.com/2022/08/09/v1RWQA.png
+     - https://s1.ax1x.com/2022/08/09/v1R2zd.png
+     - https://s1.ax1x.com/2022/08/09/v1RcJe.png
+     - https://s1.ax1x.com/2022/08/09/v1R6iD.png
+     - https://s1.ax1x.com/2022/08/09/v1RsIO.png
+     - https://s1.ax1x.com/2022/08/09/v1RDZ6.png
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
@@ -713,7 +716,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  start_date: 8/7/2022 00:00:000
+  start_date: 8/7/2022 12:00:000
 
 # Aside widget - Newest Comments
 newest_comments:
