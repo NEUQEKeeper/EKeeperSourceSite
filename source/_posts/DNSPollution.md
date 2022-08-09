@@ -53,7 +53,7 @@ categories:
 
 18bit DNS 提供的DOH:https://doh.18bit.cn/dns-query
 
-特点：国人搭建，无污染，兼具去广告作用
+特点：国人搭建，无污染，兼具去广告
 
 官网地址：https://www.18bit.cn/index.html（有爱可以赞助）
 
@@ -67,7 +67,7 @@ DNS.SB 提供的DOH:https://doh.dns.sb/dns-queryd
 
 IIJ DNS 提供的DOH:https://public.dns.iij.jp/dns-query
 
-特点：来自日本的DNS，无污染，延迟较低，比较稳定
+特点：来自日本的DNS服务，无污染，延迟较低，比较稳定
 
 
 
