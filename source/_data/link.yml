@@ -1,6 +1,6 @@
 
 - class_name: 在线工具
-  class_desc: 相关使用教程可查看文章分类，若无请百度一下
+  class_desc: 一些在线使用的小工具，图一个方便
   link_list:
     - name: CleverPDF
       link: https://www.cleverpdf.com/cn
@@ -9,15 +9,15 @@
     - name: 油猴
       link: https://www.tampermonkey.net/
       avatar: https://s1.ax1x.com/2022/08/09/vltrGD.png
-      descr: 学习通懂得都懂
+      descr: 学习通，懂得都懂
     - name: ProcessOn
       link: https://www.processon.com/
       avatar: https://s1.ax1x.com/2022/08/09/vltwa6.jpg
       descr: 在线绘制流程图
     
 
-- class_name: 实用软件
-  class_desc: 请在充分了解后使用分区工具，避免酿成大错。一些官网无法正常访问的软件可先在"网盘外链"中寻找，相应教程可先在"文章分类"中寻找，若无还请自行百度
+- class_name: 装机必备
+  class_desc: 请在充分了解后使用分区工具，避免酿成大错。一些官网无法正常访问的软件可先在以下网盘链接中寻找，相应教程可先在"文章分类"中寻找，若无还请自行百度
   link_list:
     - name: Bandizip
       link: https://www.bandisoft.com/bandizip/
@@ -40,14 +40,103 @@
       avatar: https://s1.ax1x.com/2022/08/09/vltcMd.png
       descr: 干净的杀毒软件
       
-- class_name: 网盘外链
-  class_desc: 一些仅供学习使用的资源或软件。为了避免某度盘限速EX人，我们尽量使用123网盘和蓝奏云，下载无需登录，且不限速
+      
+      
+
+
+      
+- class_name: 下载工具
+  class_desc: 提供一些好用的下载工具（破解版）。为了避免某度盘限速EX人，我们使用123网盘和蓝奏云（无需登录、不限速）。注意关闭网页上下载相关的脚本插件，如迅雷，可能会造成下载错误
   link_list:
     - name: qBittorrent
       link: https://www.123pan.com/s/ODW8Vv-pHYoA
       avatar: https://s1.ax1x.com/2022/08/09/vltyxH.jpg
       descr: 提取码 2084
+
+    - name: IDM下载器
+      link: https://www.123pan.com/s/s928Vv-aliWd
+      avatar: https://s1.ax1x.com/2022/08/09/vlfgyR.jpg
+      descr: 提取码 i6gp
       
+      
+      
+- class_name: 音视频处理
+  class_desc: 提供一些仅供学习使用的音视频处理软件（破解版）。PS 无需赘述；达芬奇，一款优秀的剪辑软件；waifu2x图片处理（尤善于二次元）。注意关闭网页上下载相关的脚本插件，如迅雷，可能会造成下载错误
+  link_list:
+    - name: PS
+      link: https://www.123pan.com/s/s928Vv-MliWd
+      avatar: https://s1.ax1x.com/2022/08/09/vlRR39.png
+      descr: 提取码 Uz4Q
+    - name: 达芬奇
+      link: https://www.123pan.com/s/s928Vv-IliWd
+      avatar: https://s1.ax1x.com/2022/08/09/vlfb6A.png
+      descr: 提取码 1yLa
+    - name: waifu2x
+      link: https://www.123pan.com/s/s928Vv-JliWd 
+      avatar: https://s1.ax1x.com/2022/08/09/vlf2O1.jpg
+      descr: 提取码 QQOh
+
+
+      
+- class_name: 故障修复 & 电脑优化
+  class_desc: 提供单文件的绿色360非流氓软件，没有全家桶强力，但大多情况够用；Process Lasso 用于调节进程优先级，优化老电脑速度。所提供软件均为破解版。注意关闭网页上下载相关的脚本插件，如迅雷，可能会造成下载错误
+  link_list:
+    - name: 360断网急救箱
+      link: https://www.123pan.com/s/s928Vv-oliWd
+      avatar: https://s1.ax1x.com/2022/08/09/vl63id.jpg
+      descr: 提取码 tSj6
+      
+    - name: 360文件粉碎机
+      link: https://www.123pan.com/s/s928Vv-BliWd 
+      avatar: https://s1.ax1x.com/2022/08/09/vlgvRA.png
+      descr: 提取码 coYk
+      
+    - name: 联想工程师故障工具包
+      link: https://www.123pan.com/s/s928Vv-4liWd
+      avatar: https://s1.ax1x.com/2022/08/09/vlRch4.jpg
+      descr: 提取码 YwdW
+      
+    - name: 微软运行库
+      link: https://www.123pan.com/s/s928Vv-pliWd
+      avatar: https://s1.ax1x.com/2022/08/09/vlRyAU.jpg
+      descr: 提取码 N7rx
+
+    - name: process lasso
+      link: https://www.123pan.com/s/s928Vv-xliWd
+      avatar: https://s1.ax1x.com/2022/08/09/vlfcl9.jpg
+      descr: 提取码 iA6A
+      
+    - name: 流氓软件清理器
+      link: https://www.123pan.com/s/s928Vv-fliWd 
+      avatar: https://s1.ax1x.com/2022/08/09/vlR6NF.png
+      descr: 提取码 R6tT
+
+
+- class_name: 激活软件
+  class_desc: 本站所提供的激活软件保证无毒，如梦工具箱可用于 Windows 激活，另外有非常非常多功能等你发掘，Office Tool 可用于安装并激活 office。注意关闭网页上下载相关的脚本插件，如迅雷，可能会造成下载错误
+  link_list:
+    - name: 入梦工具箱
+      link: https://www.123pan.com/s/s928Vv-mliWd 
+      avatar: https://s1.ax1x.com/2022/08/09/vlgQCd.png
+      descr: 提取码 ark3
+    - name: Office Tool
+      link: https://www.123pan.com/s/s928Vv-wliWd
+      avatar: https://s1.ax1x.com/2022/08/09/vlhTEV.jpg
+      descr: 提取码 9zMY
+
+
+
+- class_name: 小玩意
+  class_desc: 以供娱乐的小玩具
+  link_list:
+    - name: 天选姬
+      link: https://www.123pan.com/s/s928Vv-1liWd 
+      avatar: https://s1.ax1x.com/2022/08/09/vlR29J.jpg
+      descr: 提取码 Xfmc
+     
+     
+     
+     
 - class_name: 良心网站
   class_desc: 含泪推荐
   link_list:
@@ -55,6 +144,7 @@
       link: https://msdn.itellyou.cn/
       avatar: https://s1.ax1x.com/2022/08/09/vltgsA.png
       descr: 资源站，Windows镜像/Office等
+      
     - name: OPGG
       link: https://www.op.gg/
       avatar: https://s1.ax1x.com/2022/08/09/vltWZt.jpg
@@ -67,6 +157,9 @@
       link: https://www.kuangstudy.com/
       avatar: https://s1.ax1x.com/2022/08/09/vlt2qI.png
       descr: 全栈开发者学习
+      
+      
+      
       
 - class_name: 友情链接
   class_desc: 往届 ekeeper’s 博客
