@@ -1,7 +1,7 @@
 ---
 title: 如何安装 Office
 date: 2022-1-16
-cover: ture
+cover: https://s1.ax1x.com/2022/08/09/v1R2zd.png
 description: 你不会还没有office吧
 categories:
   - 教程
