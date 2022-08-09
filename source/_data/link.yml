@@ -1,57 +1,63 @@
+
 - class_name: 在线工具
   class_desc: 相关使用教程可查看文章分类，若无请百度一下
   link_list:
     - name: CleverPDF
       link: https://www.cleverpdf.com/cn
-      avatar: /img/CleverPDF.png
+      avatar: https://s1.ax1x.com/2022/08/09/vlt0IK.jpg
       descr: Office在线转PDF
     - name: 油猴
       link: https://www.tampermonkey.net/
-      avatar: /img/Tampermonkey.png
+      avatar: https://s1.ax1x.com/2022/08/09/vltrGD.png
       descr: 学习通懂得都懂
     - name: ProcessOn
       link: https://www.processon.com/
-      avatar: /img/ProcessOn.jpg
+      avatar: https://s1.ax1x.com/2022/08/09/vltwa6.jpg
       descr: 在线绘制流程图
-      
+    
+
 - class_name: 实用软件
-  class_desc: 请在充分了解后使用分区工具，避免酿成大错
+  class_desc: 请在充分了解后使用分区工具，避免酿成大错。一些官网无法正常访问的软件可先在"网盘外链"中寻找，相应教程可先在"文章分类"中寻找，若无还请自行百度
   link_list:
     - name: Bandizip
       link: https://www.bandisoft.com/bandizip/
-      avatar: /img/bandizip.png
-      descr: 优秀的解压缩软件
+      avatar: https://s1.ax1x.com/2022/08/09/vltDPO.png
+      descr: 好康简洁的解压缩软件
+    - name: 7-Zip
+      link: https://www.7-zip.org/
+      avatar: https://s1.ax1x.com/2022/08/09/vltdVx.jpg
+      descr: 极优秀的解压缩软件
     - name: DiskGenius
       link: https://www.diskgenius.cn/
-      avatar: /img/DiskGenius.jpg
+      avatar: https://s1.ax1x.com/2022/08/09/vltsRe.jpg
       descr: 硬盘分区工具
-    - name: BitComet
-      link: https://www.bitcomet.com/cn
-      avatar: /img/BitComet.jpg
-      descr: 免费的种子下载软件
+    - name: qBittorrent
+      link: https://www.qbittorrent.org/
+      avatar: https://s1.ax1x.com/2022/08/09/vltyxH.jpg
+      descr: 专业磁力种子下载
     - name: 火绒
       link: https://www.huorong.cn/
-      avatar: /img/huorong.png
+      avatar: https://s1.ax1x.com/2022/08/09/vltcMd.png
       descr: 干净的杀毒软件
       
 - class_name: 网盘外链
-  class_desc: 一些仅供学习使用的资源或软件。为了避免某度网盘限速恶心人，我们尽量使用123网盘和蓝奏云，麻烦了一点，没用过的友友们请自己下载注册一下
+  class_desc: 一些仅供学习使用的资源或软件。为了避免某度盘限速EX人，我们尽量使用123网盘和蓝奏云，下载无需登录，且不限速
   link_list:
-    - name: 123网盘
-      link: https://www.123pan.com/Downloadclient
-      avatar: /img/123.png
-      descr: 123网盘下载
+    - name: qBittorrent
+      link: https://www.123pan.com/s/ODW8Vv-pHYoA
+      avatar: https://s1.ax1x.com/2022/08/09/vltyxH.jpg
+      descr: 提取码 2084
       
 - class_name: 良心网站
   class_desc: 含泪推荐
   link_list:
     - name: I Tell You
       link: https://msdn.itellyou.cn/
-      avatar: /img/itellu.png
+      avatar: https://s1.ax1x.com/2022/08/09/vltgsA.png
       descr: 资源站，Windows镜像/Office等
     - name: OPGG
       link: https://www.op.gg/
-      avatar: /img/lol.jpg
+      avatar: https://s1.ax1x.com/2022/08/09/vltWZt.jpg
       descr: 大佬出装/战绩查询/职业OB
       
 - class_name: 学习教育
@@ -59,7 +65,7 @@
   link_list:
     - name: 遇见狂神说
       link: https://www.kuangstudy.com/
-      avatar: /img/kuangstudy.png
+      avatar: https://s1.ax1x.com/2022/08/09/vlt2qI.png
       descr: 全栈开发者学习
       
 - class_name: 友情链接
@@ -67,7 +73,7 @@
   link_list:
     - name: 熊熊的博客
       link: https://northboat.github.io/
-      avatar: /img/xiongxiong.jpg
+      avatar: https://s1.ax1x.com/2022/08/09/vltfdP.jpg 
       descr: 20届男酮
 
-
+ 
