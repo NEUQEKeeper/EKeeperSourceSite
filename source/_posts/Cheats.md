@@ -1,7 +1,7 @@
 ---
 title: E管家的独门绝学
 date: 2022-08-02 16:36:09
-cover: false
+cover: ture
 description: E管家代代传承的秘密
 top: true
 categories:
