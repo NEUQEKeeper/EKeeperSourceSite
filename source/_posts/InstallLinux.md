@@ -15,7 +15,7 @@ tags:
 
 ### 下载镜像
 
-镜像百度搜索即可，以乌班图为例
+镜像百度搜索即可，以ubuntu为例
 
 1. [官方下载地址](https://ubuntu.com/download)（较慢，不推荐）
 2. [中科大](http://mirrors.ustc.edu.cn/ubuntu-releases/)
