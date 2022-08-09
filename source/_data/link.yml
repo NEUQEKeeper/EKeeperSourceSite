@@ -9,11 +9,11 @@
     - name: 脚本猫
       link: https://docs.scriptcat.org/
       avatar: https://docs.scriptcat.org/logo.png
-      descr: 参考了油猴的设计思路并且支持油猴脚本,实现了一个后台脚本运行的框架,提供了一些特殊的API,让脚本能够做更多的事情
+      descr: 国人开发的油猴替代品
     - name: Draw.io
       link: https://app.diagrams.net/
       avatar: https://s1.ax1x.com/2022/08/09/v16v5Q.png
-      descr: 在线绘制流程图,离线版https://github.com/jgraph/drawio-desktop/releases
+      descr: 在线绘制流程图,有离线版
     
 
 - class_name: 装机必备
@@ -34,7 +34,7 @@
     - name: 火绒
       link: https://www.huorong.cn/
       avatar: https://s1.ax1x.com/2022/08/09/vltcMd.png
-      descr: 干净的流氓杀毒软件（如果有确切杀毒需要，建议直接上卡巴斯基360等重武器）
+      descr: 干净的流氓杀毒软件
       
       
       
@@ -52,7 +52,7 @@
     - name: IDM下载器
       link: https://www.123pan.com/s/s928Vv-aliWd
       avatar: https://s1.ax1x.com/2022/08/09/vlfgyR.jpg
-      descr: 仅供学习参考,提取码 i6gp
+      descr: 提取码 i6gp
       
     - name: Motrix
       link: https://motrix.app/zh-CN/
@@ -111,7 +111,7 @@
     - name: Process lasso
       link: https://www.123pan.com/s/s928Vv-xliWd
       avatar: https://s1.ax1x.com/2022/08/09/vlfcl9.jpg
-      descr: 仅供学习参考，提取码 iA6A
+      descr: 提取码 iA6A
       
     - name: 流氓软件清理器
       link: https://www.123pan.com/s/s928Vv-fliWd 
