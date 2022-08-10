@@ -15,6 +15,24 @@
       avatar: https://s1.ax1x.com/2022/08/10/v3keFx.png
       descr: ~(￣▽￣)~*     
 
+
+- class_name: 搜索引擎
+  class_desc: 谁还用百度啊（气愤脸）
+  link_list:
+    - name: F搜
+      link: https://fsoufsou.com/
+      avatar: https://static.hetaousercontent.com/static/assets/2443c93.logo.svg
+      descr: 多吉搜的继承者！
+    - name: 加入我们！
+      link: https://s1.ax1x.com/2022/08/10/v3F4ot.gif
+      avatar: https://s1.ax1x.com/2022/08/10/v3F4ot.gif
+      descr: ╰(*°▽°*)╯
+    - name: 联系我们
+      link: https://s1.ax1x.com/2022/08/10/v3keFx.png
+      avatar: https://s1.ax1x.com/2022/08/10/v3keFx.png
+      descr: ~(￣▽￣)~*   
+
+
 - class_name: 在线工具
   class_desc: 一些在线使用的小工具，图一个方便
   link_list:
@@ -58,7 +76,7 @@
 
       
 - class_name: 下载工具
-  class_desc: 提供一些好用的下载工具(破解版)。为了避免某度盘限速EX人,我们使用123网盘和蓝奏云()无需登录、不限速)。
+  class_desc: 提供一些好用的下载工具(破解版)。为了避免某度盘限速EX人,我们使用123网盘和蓝奏云(无需登录、不限速)。
   link_list:
     - name: qBittorrent-Enhanced-Edition
       link: https://github.com/c0re100/qBittorrent-Enhanced-Edition
