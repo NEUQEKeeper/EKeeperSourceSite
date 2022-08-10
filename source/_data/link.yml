@@ -32,11 +32,26 @@
       avatar: https://s1.ax1x.com/2022/08/10/v3mPl6.png
       descr: 最懂得你的**搜索 
 
+    - name: similarweb
+      link: https://www.similarweb.com/zh/
+      avatar: https://s1.ax1x.com/2022/08/10/v8EP7d.png
+      descr: 寻找相似的网站
+
+    - name: 学术聚合搜索
+      link: https://scholar.chongbuluo.com/
+      avatar: https://s1.ax1x.com/2022/08/10/v8E3hq.png
+      descr: 想要找论文?! 
+
 
 
 - class_name: 想要找电子书
   class_desc: 请务必尊重版权
   link_list:
+    - name: Library Genesis
+      link: http://libgen.is/
+      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      descr: 图书创世纪(自备魔法)
+
     - name: Z-library
       link: https://zh.eg1lib.org/
       avatar: https://s1.ax1x.com/2022/08/10/v3rtL8.jpg
@@ -104,6 +119,31 @@
 
 
 
+- class_name: KINDLE
+  class_desc: 是轻小说和漫画啦
+  link_list:
+    - name: COMICORES
+      link: https://www.comicores.com/
+      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      descr: 分享最好的漫画
+
+    - name: 知道漫画补档
+      link: https://www.1wwh.net/
+      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      descr: 请遵守版规!
+
+    - name: KINDLE漫画仓库
+      link: https://www.comicbackup.com/
+      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      descr: 再也不用到处找漫画了
+
+    - name: 魔笔小说
+      link: https://www.mobinovels.com/
+      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      descr: 轻小说|资源收集
+
+
+
 - class_name: 在线工具
   class_desc: 一些在线使用的小工具，图一个方便
   link_list:
@@ -135,12 +175,12 @@
     - name: 7-Zip
       link: https://www.123pan.com/s/s928Vv-XliWd
       avatar: https://s1.ax1x.com/2022/08/10/v3uCqO.jpg
-      descr: 极优秀的解压缩软件（提取码:1jg2)
+      descr: 极优秀的解压缩软件(提取码:1jg2)
 
     - name: DiskGenius
       link: https://www.diskgenius.cn/
       avatar: https://s1.ax1x.com/2022/08/09/vltsRe.jpg
-      descr: 硬盘分区工具（产自秦皇岛）
+      descr: 硬盘分区工具(产自秦皇岛)
 
     - name: 火绒
       link: https://www.huorong.cn/
@@ -152,7 +192,7 @@
 - class_name: 下载工具
   class_desc: 提供一些好用的下载工具(破解版)。为了避免某度盘限速EX人,我们使用123网盘和蓝奏云(无需登录、不限速)。
   link_list:
-    - name: qBittorrent-Enhanced-Edition
+    - name: qBittorrentEE
       link: https://github.com/c0re100/qBittorrent-Enhanced-Edition
       avatar: https://s1.ax1x.com/2022/08/09/vltyxH.jpg
       descr: qBittorrent修改版,做了一部分优化
@@ -172,12 +212,12 @@
 - class_name: 音视频处理
   class_desc: 提供一些仅供学习使用的音视频处理软件
   link_list:
-    - name: PS_2022
+    - name: PS_2022(win)
       link: https://www.123pan.com/s/s928Vv-MliWd
       avatar: https://s1.ax1x.com/2022/08/09/vlRR39.png
       descr: 提取码 Uz4Q
 
-    - name: PR_2022
+    - name: PR_2022(win)
       link: https://www.123pan.com/s/s928Vv-gliWd
       avatar: https://s1.ax1x.com/2022/08/09/v1iud0.jpg
       descr: 提取码 Yz4N  
@@ -195,7 +235,7 @@
     - name: adobe老版本
       link: https://www.yuque.com/books/share/205ec53c-5013-4bdb-ad02-ac96cc761203/ao9fmv
       avatar: https://s1.ax1x.com/2022/08/10/v3yp4J.jpg
-      descr:   
+      descr: 包括win和mac版
 
 
       
@@ -261,6 +301,11 @@
       link: https://xiaoyaocz.lanzouv.com/b00vuoc2f 
       avatar: https://s1.ax1x.com/2022/08/10/v3M7sP.png
       descr: 更好用的哔哩哔哩桌面端
+
+    - name: steamclear
+      link: https://www.123pan.com/s/s928Vv-sliWd
+      avatar: https://s1.ax1x.com/2022/08/10/v8VNGt.jpg
+      descr: 专清steam缓存(提取码:JFZ5)
 
 
      

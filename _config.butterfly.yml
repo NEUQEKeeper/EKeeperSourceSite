@@ -136,8 +136,8 @@ cover:
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
-  flink: /img/friend_404.gif
-  post_page: /img/404.jpg
+  flink: https://s1.ax1x.com/2022/08/09/v1RDZ6.png
+  post_page: https://s1.ax1x.com/2022/08/09/v1RDZ6.png
 
 # A simple 404 page
 error_404:
