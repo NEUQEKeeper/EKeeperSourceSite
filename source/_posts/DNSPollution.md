@@ -52,21 +52,21 @@ categories:
 
 
 
-18bit DNS 提供的DOH:https://doh.18bit.cn/dns-query
+18bit DNS 提供的DOH: https://doh.18bit.cn/dns-query
 
 特点：国人搭建，无污染，兼具去广告
 
 官网地址：https://www.18bit.cn/index.html（有爱可以赞助）
 
-GeekDNS 提供的DOH:https://i.233py.com/dns-query
+GeekDNS 提供的DOH: https://i.233py.com/dns-query
 
 特点：国人搭建，纯公益无污染，不稳定
 
-DNS.SB 提供的DOH:https://doh.dns.sb/dns-queryd
+DNS.SB 提供的DOH: https://doh.dns.sb/dns-queryd
 
 特点：来自德国的DNS服务，无污染，较不稳定
 
-IIJ DNS 提供的DOH:https://public.dns.iij.jp/dns-query
+IIJ DNS 提供的DOH: https://public.dns.iij.jp/dns-query
 
 特点：来自日本的DNS服务，无污染，延迟较低，比较稳定
 
