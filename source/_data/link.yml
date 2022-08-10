@@ -1,21 +1,10 @@
 
-- class_name: 广告位招租
-  class_desc: 如不能正常下载，请关闭网页上下载相关的脚本插件
-  link_list:
-    - name: CleverPDF
-      link: https://www.cleverpdf.com/cn
-      avatar: https://s1.ax1x.com/2022/08/09/vlt0IK.jpg
-      descr: Office在线转PDF
-    - name: 脚本猫
-      link: https://docs.scriptcat.org/
-      avatar: https://docs.scriptcat.org/logo.png
-      descr: 国人开发的油猴替代品
-    - name: Draw.io
-      link: https://app.diagrams.net/
-      avatar: https://s1.ax1x.com/2022/08/09/v16v5Q.png
-      descr: 在线绘制流程图,有离线版
+
 
   link_list:
+  - class_name: 广告位招租
+  class_desc: 如不能正常下载，请关闭网页上下载相关的脚本插件
+
 - class_name: 在线工具
   class_desc: 一些在线使用的小工具，图一个方便
   link_list:
