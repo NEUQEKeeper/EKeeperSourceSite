@@ -22,15 +22,11 @@
     - name: F搜
       link: https://fsoufsou.com/
       avatar: https://static.hetaousercontent.com/static/assets/2443c93.logo.svg
-      descr: 多吉搜的继承者！
-    - name: 加入我们！
-      link: https://s1.ax1x.com/2022/08/10/v3F4ot.gif
-      avatar: https://s1.ax1x.com/2022/08/10/v3F4ot.gif
-      descr: ╰(*°▽°*)╯
-    - name: 联系我们
-      link: https://s1.ax1x.com/2022/08/10/v3keFx.png
-      avatar: https://s1.ax1x.com/2022/08/10/v3keFx.png
-      descr: ~(￣▽￣)~*   
+      descr: 多吉搜索的继承者！
+    - name: TGmeow
+      link: https://meow.tg/
+      avatar: https://s1.ax1x.com/2022/08/10/v3mPl6.png
+      descr: 最懂得你的**搜索 
 
 
 - class_name: 在线工具
