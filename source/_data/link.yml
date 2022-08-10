@@ -45,11 +45,11 @@
 
 
 - class_name: 想要找电子书
-  class_desc: 请务必尊重版权
+  class_desc: 书籍是人类进步的阶梯，但请务必尊重版权
   link_list:
     - name: Library Genesis
       link: http://libgen.is/
-      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      avatar: https://s1.ax1x.com/2022/08/10/v8eBNj.jpg
       descr: 图书创世纪(自备魔法)
 
     - name: Z-library
@@ -124,22 +124,22 @@
   link_list:
     - name: COMICORES
       link: https://www.comicores.com/
-      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      avatar: https://s1.ax1x.com/2022/08/10/v8mSPA.png
       descr: 分享最好的漫画
 
     - name: 知道漫画补档
       link: https://www.1wwh.net/
-      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      avatar: https://s1.ax1x.com/2022/08/11/v8mvLT.png
       descr: 请遵守版规!
 
     - name: KINDLE漫画仓库
       link: https://www.comicbackup.com/
-      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      avatar: https://s1.ax1x.com/2022/08/11/v8nakQ.png
       descr: 再也不用到处找漫画了
 
     - name: 魔笔小说
       link: https://www.mobinovels.com/
-      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      avatar: https://s1.ax1x.com/2022/08/11/v8mzeU.png
       descr: 轻小说|资源收集
 
 
@@ -284,7 +284,7 @@
 
     - name: Office Tool
       link: https://www.123pan.com/s/s928Vv-wliWd
-      avatar: https://s1.ax1x.com/2022/08/09/vlhTEV.jpg
+      avatar: https://s1.ax1x.com/2022/08/11/v8ucvt.jpg
       descr: 提取码 9zMY
 
 
@@ -305,7 +305,7 @@
     - name: steamclear
       link: https://www.123pan.com/s/s928Vv-sliWd
       avatar: https://s1.ax1x.com/2022/08/10/v8VNGt.jpg
-      descr: 专清steam缓存(提取码:JFZ5)
+      descr: steam缓存专清(提取码:JFZ5)
 
 
      
@@ -322,6 +322,11 @@
       avatar: https://ucgimg.fmapp.com/Public/imgquality/attached/image/20220521/20220521190318_76020.jpg
       descr: 一起来玩游戏吧！
 
+    - name: 果壳剥壳
+      link: https://www.ghxi.com/
+      avatar: https://s1.ax1x.com/2022/08/11/v8u4Ug.png
+      descr: 各类破解资源，IDEA 等等等等
+
     - name: OPGG
       link: https://www.op.gg/
       avatar: https://s1.ax1x.com/2022/08/09/vltWZt.jpg
@@ -330,7 +335,7 @@
 
 
 - class_name: 在线教育
-  class_desc: 只是提供一些尚还不错的学习资源，还请大家辩证地看待、学习
+  class_desc: 提供一些尚还不错的学习资源，还请大家辩证地看待、学习
   link_list:
     - name: 遇见狂神说
       link: https://www.kuangstudy.com/
