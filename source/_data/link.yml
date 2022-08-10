@@ -1,4 +1,20 @@
 
+- class_name: 在线广告招租
+  class_desc: 如不能正常下载，请关闭网页上下载相关的脚本插件
+  link_list:
+    - name: 需要帮助吗？
+      link: https://s1.ax1x.com/2022/08/10/v3F8iV.png
+      avatar: https://s1.ax1x.com/2022/08/10/v3F8iV.png
+      descr: (●'◡'●)
+    - name: 加入我们！
+      link: https://s1.ax1x.com/2022/08/10/v3F4ot.gif
+      avatar: https://s1.ax1x.com/2022/08/10/v3F4ot.gif
+      descr: ╰(*°▽°*)╯
+    - name: 联系我们
+      link: https://s1.ax1x.com/2022/08/10/v3keFx.png
+      avatar: https://s1.ax1x.com/2022/08/10/v3keFx.png
+      descr: ~(￣▽￣)~*     
+
 - class_name: 在线工具
   class_desc: 一些在线使用的小工具，图一个方便
   link_list:
@@ -42,12 +58,12 @@
 
       
 - class_name: 下载工具
-  class_desc: 提供一些好用的下载工具（破解版）。为了避免某度盘限速EX人，我们使用123网盘和蓝奏云（无需登录、不限速）。注意关闭网页上下载相关的脚本插件，如迅雷，可能会造成下载错误
+  class_desc: 提供一些好用的下载工具(破解版)。为了避免某度盘限速EX人,我们使用123网盘和蓝奏云()无需登录、不限速)。
   link_list:
     - name: qBittorrent-Enhanced-Edition
       link: https://github.com/c0re100/qBittorrent-Enhanced-Edition
       avatar: https://s1.ax1x.com/2022/08/09/vltyxH.jpg
-      descr: qBittorrent修改版，做了一部分优化
+      descr: qBittorrent修改版,做了一部分优化
 
     - name: IDM下载器
       link: https://www.123pan.com/s/s928Vv-aliWd
@@ -62,31 +78,28 @@
       
       
 - class_name: 音视频处理
-  class_desc: 提供一些仅供学习使用的音视频处理软件（破解版）。PS 无需赘述；达芬奇，一款优秀的剪辑软件；waifu2x图片处理（尤善于二次元）。注意关闭网页上下载相关的脚本插件，如迅雷，可能会造成下载错误
+  class_desc: 提供一些仅供学习使用的音视频处理软件
   link_list:
-    - name: PS 2022
+    - name: PS_2022
       link: https://www.123pan.com/s/s928Vv-MliWd
       avatar: https://s1.ax1x.com/2022/08/09/vlRR39.png
       descr: 提取码 Uz4Q
-      
+    - name: PR_2022
+      link: https://www.123pan.com/s/s928Vv-gliWd
+      avatar: https://s1.ax1x.com/2022/08/09/v1iud0.jpg
+      descr: 提取码 Yz4N      
     - name: DaVinci_Resolve
       link: https://www.123pan.com/s/s928Vv-IliWd
       avatar: https://s1.ax1x.com/2022/08/09/vlfb6A.png
       descr: 提取码 1yLa
-      
     - name: waifu2x
-      link: https://www.123pan.com/s/s928Vv-JliWd 
+      link: https://www.123pan.com/s/s928Vv-JliWd
       avatar: https://s1.ax1x.com/2022/08/09/vlf2O1.jpg
-      descr: 提取码 QQOh
-      
-    - name: PR 2022
-      link: https://www.123pan.com/s/s928Vv-gliWd
-      avatar: https://s1.ax1x.com/2022/08/09/v1iud0.jpg
-      descr: 提取码 Yz4N
+      descr: 提取码 QQOh   
 
       
 - class_name: 故障修复 & 电脑优化
-  class_desc: 提供单文件的绿色360非流氓软件，没有全家桶强力，但大多情况够用；Process Lasso 用于调节进程优先级，优化老电脑速度。所提供软件均为破解版。注意关闭网页上下载相关的脚本插件，如迅雷，可能会造成下载错误
+  class_desc: 提供单文件的绿色360非流氓软件,没有全家桶强力,但大多情况够用;Process Lasso 用于调节进程优先级，优化老电脑速度。所提供软件均为破解版。
   link_list:
     - name: 360断网急救箱
       link: https://www.123pan.com/s/s928Vv-oliWd
@@ -108,7 +121,7 @@
       avatar: https://s1.ax1x.com/2022/08/09/vlRyAU.jpg
       descr: 提取码 N7rx
 
-    - name: Process lasso
+    - name: Process_lasso
       link: https://www.123pan.com/s/s928Vv-xliWd
       avatar: https://s1.ax1x.com/2022/08/09/vlfcl9.jpg
       descr: 提取码 iA6A
@@ -120,7 +133,7 @@
 
 
 - class_name: 激活软件
-  class_desc: 本站所提供的激活软件保证无毒，如梦工具箱可用于 Windows 激活，另外有非常非常多功能等你发掘，Office Tool 可用于安装并激活 office。注意关闭网页上下载相关的脚本插件，如迅雷，可能会造成下载错误
+  class_desc: 本站所提供的激活软件保证无毒，如梦工具箱可用于 Windows 激活,另外有非常非常多功能等你发掘,Office Tool 可用于安装并激活 office。
   link_list:
     - name: 入梦工具箱
       link: https://www.123pan.com/s/s928Vv-mliWd 
@@ -150,7 +163,7 @@
     - name: I Tell You
       link: https://msdn.itellyou.cn/
       avatar: https://s1.ax1x.com/2022/08/09/vltgsA.png
-      descr: 资源站，Windows镜像/Office等
+      descr: 资源站,Windows镜像/Office等
       
     - name: OPGG
       link: https://www.op.gg/
@@ -169,7 +182,7 @@
       
       
 - class_name: 友情链接
-  class_desc: 往届 ekeeper’s 博客
+  class_desc: 往届 ekeeper's 博客
   link_list:
     - name: 熊熊的博客
       link: https://northboat.github.io/
