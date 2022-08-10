@@ -1,13 +1,5 @@
 
-<<<<<<< HEAD
-
-
   link_list:
-  - class_name: 广告位招租
-  class_desc: 如不能正常下载，请关闭网页上下载相关的脚本插件
-
-=======
->>>>>>> parent of c79ea16 (修订)
 - class_name: 在线工具
   class_desc: 一些在线使用的小工具，图一个方便
   link_list:
