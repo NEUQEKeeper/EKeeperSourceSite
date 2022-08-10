@@ -423,7 +423,7 @@ crisp:
 messenger:
   enable: false
   pageID:
-  lang: zh_TW # Language en_US/zh_CN/zh_TW and so on
+  lang: zh_CN # Language en_US/zh_CN/zh_TW and so on
 
 # Footer Settings
 # --------------------------------------
@@ -431,7 +431,7 @@ footer:
   owner:
     enable: true
     since: 2022
-  custom_text:
+  custom_text: 彼岸花花开彼岸，断肠草草断肝肠。
   copyright: true # Copyright of theme and framework
 
 # Analysis
@@ -708,8 +708,8 @@ busuanzi:
 # Time difference between publish date and now (網頁運行時間)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
-  enable: true
-  start_date: 2021/8/7 12:00:00
+  enable: false
+  start_date: 2021/8/7 12:00:00 
 
 # Aside widget - Newest Comments
 newest_comments:
