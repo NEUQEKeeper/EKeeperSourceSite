@@ -58,7 +58,7 @@
       descr: 全英文
 
     - name: 鸠摩搜书
-      link: jiumodiary.com
+      link: https://jiumodiary.com
       avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
       descr: 老牌搜书引擎
 
@@ -73,7 +73,7 @@
       descr: 也是老牌了
 
     - name: 古腾堡计划
-      link: gutenberg.org
+      link: https://gutenberg.org
       avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
       descr: 公版图书
 
@@ -93,7 +93,7 @@
       descr: 还是很多书
 
     - name: PDF之家
-      link: pdfzj.cn/
+      link: https://pdfzj.cn
       avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
       descr: 都是书   
 
