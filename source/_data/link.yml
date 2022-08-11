@@ -344,12 +344,12 @@
 
 
       
-- class_name: 友情链接
-  class_desc: 往届 ekeeper's 博客
-  link_list:
-    - name: 熊熊的博客
-      link: https://northboat.github.io/
-      avatar: https://s1.ax1x.com/2022/08/09/vltfdP.jpg 
-      descr: 20届男酮
+#- class_name: 友情链接
+#  class_desc: 往届 ekeeper's 博客
+#  link_list:
+#    - name: 熊熊的博客
+#      link: https://northboat.github.io/
+#      avatar: https://s1.ax1x.com/2022/08/09/vltfdP.jpg 
+#      descr: 20届男酮
 
  
