@@ -1,6 +1,6 @@
 
 - class_name: 如不能正常下载，请关闭网页上与下载相关的相关脚本
-  class_desc: 本站所有仅供学习参考,各位有能力多多支持正版和原作者,下载后请24小时后删除        
+  class_desc: 本站所有仅供学习参考,各位有能力多多支持正版和原作者,下载后请24小时后删除。注：下载链接多为123云盘，网页上无需登录即可下载，夸克网盘需用手机号登陆，一则短信后即可开始下载，均不限速      
   link_list:
     - name: 需要帮助吗？
       link: https://s1.ax1x.com/2022/08/11/v8vWdK.png
@@ -253,7 +253,7 @@
 
 
 - class_name: 系统工具
-  class_desc: 请在充分了解后使用分区工具，避免酿成大错。一些官网无法正常访问的软件可先在以下网盘链接中寻找，相应教程可先在"文章分类"中寻找，若无还请自行百度
+  class_desc: 请在充分了解后使用分区工具，避免酿成大错
   link_list:
     - name: Bandizip
       link: https://www.bandisoft.com/bandizip/
@@ -278,7 +278,7 @@
 
       
 - class_name: 下载工具
-  class_desc: 提供一些好用的下载工具(破解版)。为了避免某度盘限速EX人,我们使用123网盘和蓝奏云(无需登录、不限速)。
+  class_desc: 提供一些好用的下载工具(破解版)
   link_list:
     - name: qBittorrentEE
       link: https://github.com/c0re100/qBittorrent-Enhanced-Edition
@@ -398,7 +398,7 @@
 
      
 - class_name: 良心网站推荐
-  class_desc: reoreoreoreo~
+  class_desc: very good
   link_list:
     - name: I Tell You
       link: https://msdn.itellyou.cn/
