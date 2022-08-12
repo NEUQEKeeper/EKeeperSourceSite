@@ -1,5 +1,5 @@
 
-- class_name: 如不能正常下载，请关闭与下载相关的相关脚本
+- class_name: 如不能正常下载，请关闭网页上与下载相关的相关脚本
   class_desc: 本站所有仅供学习参考,各位有能力多多支持正版和原作者,下载后请24小时后删除        
   link_list:
     - name: 需要帮助吗？
@@ -116,6 +116,94 @@
       link: https://downloadpdf.cn/index.html
       avatar: https://s1.ax1x.com/2022/08/10/v3yd8s.png
       descr: 书啊！书啊！ 
+
+
+
+
+
+
+
+
+- class_name: 教材专栏
+  class_desc: 欢迎大家联系我们的邮箱进行补充
+  link_list:
+    - name: 高数上及解析
+      link: https://www.123pan.com/s/ODW8Vv-eHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJWyA1.png
+      descr: 提取码 tlE8    
+
+    - name: 高数下及解析
+      link: https://www.123pan.com/s/ODW8Vv-tHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJW6tx.png
+      descr: 提取码 v2vX 
+    
+    - name: 大学物理学 第五版
+      link: https://www.123pan.com/s/ODW8Vv-5HYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJ6eH0.png
+      descr: 提取码 B4zl
+
+    - name: 毛概 2021年版
+      link: https://www.123pan.com/s/ODW8Vv-ZHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJWch6.png
+      descr: 提取码 W7yg
+
+    - name: 马原 2021年版
+      link: https://www.123pan.com/s/ODW8Vv-iHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJWfje.png
+      descr: 提取码 NWDA
+
+    - name: 近代史 2021年版
+      link: https://www.123pan.com/s/ODW8Vv-LHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJWTAI.png
+      descr: 提取码 Sy9s
+      
+    - name: 概率论与数理统计 第五版
+      link: https://www.123pan.com/s/ODW8Vv-bHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJWH4P.png
+      descr: 提取码 vtY1
+      
+    - name: 数据结构C语言版 严蔚敏    
+      link: https://www.123pan.com/s/ODW8Vv-zHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJWOgS.png
+      descr: 提取码 HSBO
+
+    - name: 电路 邱关源 第五版
+      link: https://www.123pan.com/s/ODW8Vv-cHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJWxBj.png
+      descr: 提取码 cq12
+ 
+    - name: 人工智能：一种现代的方法 第三版
+      link: https://www.123pan.com/s/ODW8Vv-8HYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJryD0.jpg
+      descr: 提取码 HibB
+
+    - name: 数电 康华光 第六版
+      link: https://www.123pan.com/s/ODW8Vv-0HYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJr6bV.png
+      descr: 提取码 MVXA
+
+    - name: 最优化导论 第四版
+      link: https://www.123pan.com/s/ODW8Vv-KHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJrsuq.jpg
+      descr: 提取码 zD44
+
+    - name: 汇编语言 郑晓薇 第二版
+      link: https://www.123pan.com/s/ODW8Vv-uHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJrDvn.jpg
+      descr: 提取码 OoqR
+
+    - name: 数据库系统概论 第五版
+      link: https://www.123pan.com/s/ODW8Vv-UHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJrBgs.jpg
+      descr: 提取码 HbAE
+
+    - name: 编译原理 龙书 第二版
+      link: https://www.123pan.com/s/ODW8Vv-SHYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJrgET.jpg
+      descr: 提取码 wobl
+
+
+
 
 
 
@@ -309,8 +397,8 @@
 
 
      
-- class_name: 良心网站
-  class_desc: 含泪推荐
+- class_name: 良心网站推荐
+  class_desc: reoreoreoreo~
   link_list:
     - name: I Tell You
       link: https://msdn.itellyou.cn/
@@ -326,7 +414,12 @@
       link: https://www.ghxi.com/
       avatar: https://s1.ax1x.com/2022/08/11/v8u4Ug.png
       descr: 各类破解资源，IDEA 等等等等
-
+      
+    - name: 七米蓝的仓库
+      link: https://al.chirmyram.com/
+      avatar: https://s1.ax1x.com/2022/08/12/vJsMZV.png
+      descr: 不只分享资源，还分享经验
+      
     - name: OPGG
       link: https://www.op.gg/
       avatar: https://s1.ax1x.com/2022/08/09/vltWZt.jpg
@@ -334,7 +427,7 @@
 
 
 
-- class_name: 在线教育
+- class_name: 学习教育
   class_desc: 提供一些尚还不错的学习资源，还请大家辩证地看待、学习
   link_list:
     - name: 遇见狂神说
@@ -342,14 +435,14 @@
       avatar: https://s1.ax1x.com/2022/08/09/vlt2qI.png
       descr: 全栈开发者学习
 
-
+    - name: 六级课程资料
+      link: https://www.aliyundrive.com/s/LYKCfcBUaKn 
+      avatar: https://s1.ax1x.com/2022/08/12/vJsJz9.jpg
+      descr: 提取码 8u33
       
-#- class_name: 友情链接
-#  class_desc: 往届 ekeeper's 博客
-#  link_list:
-#    - name: 熊熊的博客
-#      link: https://northboat.github.io/
-#      avatar: https://s1.ax1x.com/2022/08/09/vltfdP.jpg 
-#      descr: 20届男酮
+    - name: 究极阿里云盘资源分享合集
+      link:  https://www.123pan.com/s/ODW8Vv-7HYoA
+      avatar: https://s1.ax1x.com/2022/08/12/vJ6v24.jpg
+      descr: 提取码 Yas9    
 
- 
+
