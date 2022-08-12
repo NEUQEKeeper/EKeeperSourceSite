@@ -19,6 +19,7 @@ menu:
   主页: / || fas fa-home
   资源链接: /link/ || fas fa-link
   文章分类: /categories/ || fas fa-folder-open
+  特别感谢: /thank/ || fas fa-handshake
   关于我们: /about/ || fas fa-heart
   时间线: /archives/ || fas fa-archive
 
