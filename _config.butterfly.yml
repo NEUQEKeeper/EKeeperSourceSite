@@ -709,7 +709,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  start_date: 8/7/2022
+  start_date: 8/7/2022 12:00:00
 
 # Aside widget - Newest Comments
 newest_comments:
