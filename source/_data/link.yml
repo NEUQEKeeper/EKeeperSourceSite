@@ -1,5 +1,5 @@
 
-- class_name: 如不能正常下载，请关闭网页上与下载相关的相关脚本
+- class_name: 如不能正常下载，请关闭网页上与下载相关的脚本
   class_desc: 本站所有仅供学习参考,各位有能力多多支持正版和原作者,下载后请24小时后删除。注：下载链接多为123云盘，网页上无需登录即可下载，夸克网盘需用手机号登陆，一则短信后即可开始下载，均不限速      
   link_list:
     - name: 需要帮助吗？
@@ -201,6 +201,15 @@
       descr: 提取码 4HgP 
 
 
+    - name: 材料科学基础 第三版
+      link: https://www.123pan.com/s/ODW8Vv-4AYoA
+      avatar: https://s1.ax1x.com/2022/08/13/vN8A41.png
+      descr: 提取码 9krx 
+      
+      
+      
+      
+      
 - class_name: 下载工具
   class_desc: 提供一些好用的下载工具(破解版)
   link_list:
@@ -252,7 +261,7 @@
   link_list:
     - name: arch
       link: https://www.123pan.com/s/s928Vv-tliWd
-      avatar: https://s1.ax1x.com/2022/08/13/vNlT8f.jpg
+      avatar: https://s1.ax1x.com/2022/08/13/vNJpTJ.jpg
       descr: 提取码 0kzP
       
     - name: manjaro
