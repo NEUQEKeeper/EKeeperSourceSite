@@ -42,6 +42,26 @@
       avatar: https://s1.ax1x.com/2022/08/10/v8E3hq.png
       descr: 想要找论文?! 
 
+
+- class_name: 在线工具
+  class_desc: 一些在线使用的实用小工具
+  link_list:
+    - name: CleverPDF
+      link: https://www.cleverpdf.com/cn
+      avatar: https://s1.ax1x.com/2022/08/09/vlt0IK.jpg
+      descr: Office在线转PDF
+
+    - name: 脚本猫
+      link: https://docs.scriptcat.org/
+      avatar: https://docs.scriptcat.org/logo.png
+      descr: 国人开发的油猴替代品
+
+    - name: Draw.io
+      link: https://app.diagrams.net/
+      avatar: https://s1.ax1x.com/2022/08/09/v16v5Q.png
+      descr: 在线绘制流程图,有离线版
+
+
 - class_name: 学习教育
   class_desc: 提供一些尚还不错的学习资源，还请大家辩证地看待、学习
   link_list:
@@ -181,10 +201,107 @@
       descr: 提取码 4HgP 
 
 
+- class_name: 下载工具
+  class_desc: 提供一些好用的下载工具(破解版)
+  link_list:
+    - name: qBittorrentEE
+      link: https://github.com/c0re100/qBittorrent-Enhanced-Edition
+      avatar: https://s1.ax1x.com/2022/08/09/vltyxH.jpg
+      descr: qBittorrent修改版,做了一部分优化
 
+    - name: IDM下载器
+      link: https://www.123pan.com/s/s928Vv-aliWd
+      avatar: https://s1.ax1x.com/2022/08/09/vlfgyR.jpg
+      descr: 提取码 i6gp
+      
+    - name: Motrix
+      link: https://motrix.app/zh-CN/
+      avatar: https://s.motrix.app/images/app-icon-square.png
+      descr: 基于aria2构建的全能下载工具
+      
+      
+
+- class_name: 系统工具
+  class_desc: 请在充分了解后使用分区工具，避免酿成大错
+  link_list:
+    - name: Bandizip
+      link: https://www.bandisoft.com/bandizip/
+      avatar: https://s1.ax1x.com/2022/08/09/vltDPO.png
+      descr: 好康简洁的解压缩软件
+
+    - name: 7-Zip
+      link: https://www.123pan.com/s/s928Vv-XliWd
+      avatar: https://s1.ax1x.com/2022/08/10/v3uCqO.jpg
+      descr: 极优秀的解压缩软件(提取码:1jg2)
+
+    - name: DiskGenius
+      link: https://www.diskgenius.cn/
+      avatar: https://s1.ax1x.com/2022/08/09/vltsRe.jpg
+      descr: 硬盘分区工具(产自秦皇岛)
+
+    - name: 火绒
+      link: https://www.huorong.cn/
+      avatar: https://s1.ax1x.com/2022/08/09/vltcMd.png
+      descr: 干净的流氓杀毒软件
 
 
       
+      
+- class_name: 系统镜像
+  class_desc: 请在充分了解后使用分区工具，避免酿成大错
+  link_list:
+    - name: arch
+      link: https://www.123pan.com/s/s928Vv-tliWd
+      avatar: https://s1.ax1x.com/2022/08/13/vNlT8f.jpg
+      descr: 提取码 0kzP
+      
+    - name: manjaro
+      link: https://www.123pan.com/s/s928Vv-SliWd
+      avatar: https://s1.ax1x.com/2022/08/13/vNl55t.jpg
+      descr: 提取码 MNRi
+
+    - name: opensuse
+      link: https://www.123pan.com/s/s928Vv-lliWd
+      avatar: https://s1.ax1x.com/2022/08/13/vNl4UI.jpg
+      descr: 提取码 6g0J
+
+    - name: ubuntu22.04
+      link: https://www.123pan.com/s/s928Vv-ZliWd
+      avatar: https://s1.ax1x.com/2022/08/13/vNlhVA.jpg
+      descr: 提取码 cFar
+
+    - name: fedora
+      link: https://www.123pan.com/s/s928Vv-cliWd
+      avatar: https://s1.ax1x.com/2022/08/13/vNloPP.jpg
+      descr: 提取码 E0op     
+
+    - name: deepin
+      link: https://www.123pan.com/s/s928Vv-eliWd
+      avatar: https://s1.ax1x.com/2022/08/13/vNl728.png
+      descr: 提取码 0rmv
+
+    - name: win7
+      link: https://www.123pan.com/s/s928Vv-iliWd
+      avatar: https://s1.ax1x.com/2022/08/13/vNlqKg.jpg
+      descr: 提取码 kJnh
+    
+    - name: win8.1精简版
+      link: https://www.123pan.com/s/s928Vv-UliWd
+      avatar: https://s1.ax1x.com/2022/08/13/vNlHxS.jpg
+      descr: 提取码 xNqo
+
+    - name: win10消费者版
+      link: https://www.123pan.com/s/s928Vv-bliWd
+      avatar: https://s1.ax1x.com/2022/08/13/vNlObj.jpg
+      descr: 提取码 AgVw
+
+    - name: win11消费者版
+      link: https://www.123pan.com/s/s928Vv-7liWd
+      avatar: https://s1.ax1x.com/2022/08/13/vNlLrQ.jpg 
+      descr: 提取码 4A1U
+
+
+
       
 - class_name: 想要找电子书
   class_desc: 书籍是人类进步的阶梯，但请务必尊重版权
@@ -262,11 +379,6 @@
 
 
 
-
-
-
-
-
 - class_name: KINDLE
   class_desc: 是轻小说和漫画啦
   link_list:
@@ -288,74 +400,9 @@
     - name: 魔笔小说
       link: https://www.mobinovels.com/
       avatar: https://s1.ax1x.com/2022/08/11/v8mzeU.png
-      descr: 轻小说|资源收集
-
-
-
-- class_name: 在线工具
-  class_desc: 一些在线使用的小工具，图一个方便
-  link_list:
-    - name: CleverPDF
-      link: https://www.cleverpdf.com/cn
-      avatar: https://s1.ax1x.com/2022/08/09/vlt0IK.jpg
-      descr: Office在线转PDF
-
-    - name: 脚本猫
-      link: https://docs.scriptcat.org/
-      avatar: https://docs.scriptcat.org/logo.png
-      descr: 国人开发的油猴替代品
-
-    - name: Draw.io
-      link: https://app.diagrams.net/
-      avatar: https://s1.ax1x.com/2022/08/09/v16v5Q.png
-      descr: 在线绘制流程图,有离线版
-
-
-
-- class_name: 系统工具
-  class_desc: 请在充分了解后使用分区工具，避免酿成大错
-  link_list:
-    - name: Bandizip
-      link: https://www.bandisoft.com/bandizip/
-      avatar: https://s1.ax1x.com/2022/08/09/vltDPO.png
-      descr: 好康简洁的解压缩软件
-
-    - name: 7-Zip
-      link: https://www.123pan.com/s/s928Vv-XliWd
-      avatar: https://s1.ax1x.com/2022/08/10/v3uCqO.jpg
-      descr: 极优秀的解压缩软件(提取码:1jg2)
-
-    - name: DiskGenius
-      link: https://www.diskgenius.cn/
-      avatar: https://s1.ax1x.com/2022/08/09/vltsRe.jpg
-      descr: 硬盘分区工具(产自秦皇岛)
-
-    - name: 火绒
-      link: https://www.huorong.cn/
-      avatar: https://s1.ax1x.com/2022/08/09/vltcMd.png
-      descr: 干净的流氓杀毒软件
-
-
+      descr: 轻小说|资源收集 
       
-- class_name: 下载工具
-  class_desc: 提供一些好用的下载工具(破解版)
-  link_list:
-    - name: qBittorrentEE
-      link: https://github.com/c0re100/qBittorrent-Enhanced-Edition
-      avatar: https://s1.ax1x.com/2022/08/09/vltyxH.jpg
-      descr: qBittorrent修改版,做了一部分优化
-
-    - name: IDM下载器
-      link: https://www.123pan.com/s/s928Vv-aliWd
-      avatar: https://s1.ax1x.com/2022/08/09/vlfgyR.jpg
-      descr: 提取码 i6gp
       
-    - name: Motrix
-      link: https://motrix.app/zh-CN/
-      avatar: https://s.motrix.app/images/app-icon-square.png
-      descr: 基于aria2构建的全能下载工具
-
- 
       
 - class_name: 音视频处理
   class_desc: 提供一些仅供学习使用的音视频处理软件
