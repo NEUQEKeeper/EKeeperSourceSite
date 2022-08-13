@@ -10,5 +10,7 @@ top_img: /img/bg.gif
 ![鑫鑫，20届E管家负责人之一，本站宣传者](/img/xinxin.jpg)
 ![YR，21届E管家干事，教材收集和运营](/img/YR.jpg)
 ![乘浮云骢，17届E管家负责人之一，为网站后续建设提出建议](/img/chengfu.jpg)
+![培元，感谢提供自动化方面的教材](/img/peiyuan.jpg)
+![星霖，感谢提供资材方面的教材](/img/xinglin.jpg)
 {% endgallery %}
 

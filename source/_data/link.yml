@@ -50,15 +50,15 @@
       avatar: https://s1.ax1x.com/2022/08/09/vlt2qI.png
       descr: 全栈开发者学习
 
-    - name: 六级课程资料
+    - name: 六级课程、资料及历年真题解析
       link: https://www.aliyundrive.com/s/LYKCfcBUaKn 
       avatar: https://s1.ax1x.com/2022/08/12/vJsJz9.jpg
       descr: 提取码 8u33
       
     - name: 究极阿里云盘资源分享合集
-      link:  https://www.123pan.com/s/ODW8Vv-7HYoA
+      link:  https://pan.quark.cn/s/e03a4f013f08
       avatar: https://s1.ax1x.com/2022/08/12/vJ6v24.jpg
-      descr: 提取码 Yas9    
+      descr: 提取码 ZxS2    
 
     - name: 23考研数、英、政
       link: https://pan.quark.cn/s/fba3c449e9ef
@@ -78,8 +78,9 @@
       link: https://www.123pan.com/s/ODW8Vv-tHYoA
       avatar: https://s1.ax1x.com/2022/08/12/vJW6tx.png
       descr: 提取码 v2vX 
-    
-    - name: 大学物理学 第五版
+      
+
+    - name: 大学物理学 第五版 
       link: https://www.123pan.com/s/ODW8Vv-5HYoA
       avatar: https://s1.ax1x.com/2022/08/12/vJ6eH0.png
       descr: 提取码 B4zl
@@ -99,7 +100,7 @@
       avatar: https://s1.ax1x.com/2022/08/12/vJWTAI.png
       descr: 提取码 Sy9s
       
-    - name: 概率论与数理统计 第五版
+    - name: 概率统计 浙大 第五版
       link: https://www.123pan.com/s/ODW8Vv-bHYoA
       avatar: https://s1.ax1x.com/2022/08/12/vJWH4P.png
       descr: 提取码 vtY1
@@ -144,8 +145,47 @@
       avatar: https://s1.ax1x.com/2022/08/12/vJrgET.jpg
       descr: 提取码 wobl
 
+    - name: 微型计算机原理与接口技术 第四版
+      link: https://www.123pan.com/s/ODW8Vv-hAYoA
+      avatar: https://s1.ax1x.com/2022/08/13/vteP4e.png
+      descr: 提取码 G4g3
+    
+    - name: 模电 清华 第五版
+      link: https://www.123pan.com/s/ODW8Vv-HAYoA
+      avatar: https://s1.ax1x.com/2022/08/13/vteeDP.png
+      descr: 提取码 PZRP  
+
+    - name: 数电 清华 第六版
+      link: https://www.123pan.com/s/ODW8Vv-EAYoA
+      avatar: https://s1.ax1x.com/2022/08/13/vteZut.png
+      descr: 提取码 W0qH       
+
+    - name: 电子电力技术 王力夫 第二版
+      link: https://www.123pan.com/s/ODW8Vv-AAYoA
+      avatar: https://s1.ax1x.com/2022/08/13/vteuE8.png
+      descr: 提取码 nwCI 
+
+    - name: 人工智能导论 李德毅
+      link: https://www.123pan.com/s/ODW8Vv-9AYoA
+      avatar: https://s1.ax1x.com/2022/08/13/vtemHf.png
+      descr: 提取码 8BUP 
+
+    - name: 工程材料学 王晓敏 第四版
+      link: https://www.123pan.com/s/ODW8Vv-QAYoA
+      avatar: https://s1.ax1x.com/2022/08/13/vteKUS.png
+      descr: 提取码 4wKk 
+
+    - name: 金属与热处理 哈工大
+      link: https://www.123pan.com/s/ODW8Vv-kAYoA
+      avatar: https://s1.ax1x.com/2022/08/13/vteM4g.png 
+      descr: 提取码 4HgP 
 
 
+
+
+
+      
+      
 - class_name: 想要找电子书
   class_desc: 书籍是人类进步的阶梯，但请务必尊重版权
   link_list:
