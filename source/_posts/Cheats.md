@@ -17,6 +17,8 @@ tags:
 《三十天告别单身》：[提取码 Vb7z](https://www.123pan.com/s/ODW8Vv-aHYoA)
 《把妹达人：从宅男到型男》：[提取码 sXfx](https://www.123pan.com/s/ODW8Vv-JHYoA)
 
+[在此再次由衷感谢为本站做出过贡献的校友们](/thank/)
+
 [![hahaha](https://s1.ax1x.com/2022/08/09/v1eNcT.jpg "哈哈哈")](https://52.mk/)
 
 
