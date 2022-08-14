@@ -233,6 +233,11 @@
 - class_name: 系统工具
   class_desc: 请在充分了解后使用分区工具，避免酿成大错
   link_list:
+    - name: ventoy
+      link: https://www.ventoy.net/cn/index.html
+      avatar: https://s1.ax1x.com/2022/08/14/vUzNvT.png
+      descr: 无需格式化的多系统启动 U 盘解决方案
+
     - name: Bandizip
       link: https://www.bandisoft.com/bandizip/
       avatar: https://s1.ax1x.com/2022/08/09/vltDPO.png
@@ -496,6 +501,16 @@
 - class_name: 小玩意
   class_desc: 以供娱乐的小玩具
   link_list:
+    - name: Paper2GUI
+      link: https://github.com/Baiyuetribe/paper2gui?utm_source=iplaysoft.com&hmsr=iplaysoft.com
+      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      descr: 让每个人都简单方便的使用前沿人工智能技术
+
+    - name: 弹弹play
+      link: https://www.dandanplay.com/
+      avatar: https://s1.ax1x.com/2022/08/14/vUxTjU.png
+      descr: 谁说不能本地看弹幕
+
     - name: 天选姬
       link: https://www.123pan.com/s/s928Vv-1liWd 
       avatar: https://s1.ax1x.com/2022/08/09/vlR29J.jpg
@@ -516,6 +531,21 @@
 - class_name: 良心网站推荐
   class_desc: very good
   link_list:
+    - name: Linux命令行与Shell脚本教程
+      link: https://archlinuxstudio.github.io/ShellTutorial/#/
+      avatar: https://s1.ax1x.com/2022/08/14/vUzOsS.png
+      descr: 谁说shell不算编程~(￣▽￣)~*
+
+    - name: SoSo 的各种工具
+      link: https://sosotools.lanzoux.com/b015bjrji
+      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
+      descr: 提取码c90w
+
+    - name: FilterLists
+      link: https://filterlists.com/
+      avatar: https://s1.ax1x.com/2022/08/14/vUxN0H.png
+      descr: 拦截垃圾网站，配合software使用
+
     - name: I Tell You
       link: https://msdn.itellyou.cn/
       avatar: https://s1.ax1x.com/2022/08/09/vltgsA.png
