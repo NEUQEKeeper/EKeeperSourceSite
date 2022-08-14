@@ -81,6 +81,8 @@ DNS服务添加完成后，即可在“DNS服务列表”中看到已添加的DN
 
 特点：配置较为复杂但可自定义，如果第一个方法不能生效可以尝试第二个
 
+然后关闭浏览器，用cmd运行ipconfig /flushdns刷新DNS缓存即可
+
 改编自18bit官方的[配置教程](https://www.18bit.cn/help-docs/help-docs-windows.html)
 
 **方法三**：
