@@ -4,17 +4,17 @@
   link_list:
     - name: 需要帮助吗？
       link: /img/hao.png
-      avatar: https://s1.ax1x.com/2022/08/10/v3F8iV.png
+      avatar: /img/help.jpg
       descr: (●'◡'●)
 
     - name: 联系我们！
       link: /img/erqun.png
-      avatar: https://s1.ax1x.com/2022/08/10/v3F4ot.gif
+      avatar: /img/contact.gif
       descr: ╰(*°▽°*)╯
 
     - name: 加入我们~
       link: https://s1.ax1x.com/2022/08/11/v8xB0P.png
-      avatar: https://s1.ax1x.com/2022/08/10/v3keFx.png
+      avatar: /img/join.jpg
       descr: ~(￣▽￣)~*     
 
 
@@ -24,22 +24,22 @@
   link_list:
     - name: F搜
       link: https://fsoufsou.com/
-      avatar: https://s1.ax1x.com/2022/08/10/v3nzxx.png
+      avatar: /img/f.png
       descr: 多吉搜索的继承者！
 
     - name: TGmeow
       link: https://meow.tg/
-      avatar: https://s1.ax1x.com/2022/08/10/v3mPl6.png
+      avatar: /img/tg.jpg
       descr: 最懂得你的**搜索 
 
     - name: similarweb
       link: https://www.similarweb.com/zh/
-      avatar: https://s1.ax1x.com/2022/08/10/v8EP7d.png
+      avatar: /img/similar.png
       descr: 寻找相似的网站
 
     - name: 学术聚合搜索
       link: https://scholar.chongbuluo.com/
-      avatar: https://s1.ax1x.com/2022/08/10/v8E3hq.png
+      avatar: /img/search.png
       descr: 想要找论文?! 
 
 
@@ -58,7 +58,7 @@
 
     - name: Draw.io
       link: https://app.diagrams.net/
-      avatar: https://s1.ax1x.com/2022/08/09/v16v5Q.png
+      avatar: /img/drawio.jpg
       descr: 在线绘制流程图,有离线版
 
 
@@ -233,11 +233,6 @@
 - class_name: 系统工具
   class_desc: 请在充分了解后使用分区工具，避免酿成大错
   link_list:
-    - name: ventoy
-      link: https://www.ventoy.net/cn/index.html
-      avatar: https://s1.ax1x.com/2022/08/14/vUzNvT.png
-      descr: 无需格式化的多系统启动 U 盘解决方案
-
     - name: Bandizip
       link: https://www.bandisoft.com/bandizip/
       avatar: https://s1.ax1x.com/2022/08/09/vltDPO.png
@@ -262,7 +257,7 @@
       
       
 - class_name: 系统镜像
-  class_desc: 唯一真神：____？
+  class_desc: 请在充分了解后使用分区工具，避免酿成大错
   link_list:
     - name: arch
       link: https://www.123pan.com/s/s928Vv-tliWd
@@ -501,16 +496,6 @@
 - class_name: 小玩意
   class_desc: 以供娱乐的小玩具
   link_list:
-    - name: Paper2GUI
-      link: https://github.com/Baiyuetribe/paper2gui?utm_source=iplaysoft.com&hmsr=iplaysoft.com
-      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
-      descr: 让每个人都简单方便的使用前沿人工智能技术
-
-    - name: 弹弹play
-      link: https://www.dandanplay.com/
-      avatar: https://s1.ax1x.com/2022/08/14/vUxTjU.png
-      descr: 谁说不能本地看弹幕
-
     - name: 天选姬
       link: https://www.123pan.com/s/s928Vv-1liWd 
       avatar: https://s1.ax1x.com/2022/08/09/vlR29J.jpg
@@ -531,21 +516,6 @@
 - class_name: 良心网站推荐
   class_desc: very good
   link_list:
-    - name: Linux命令行与Shell脚本教程
-      link: https://archlinuxstudio.github.io/ShellTutorial/#/
-      avatar: https://s1.ax1x.com/2022/08/14/vUzOsS.png
-      descr: 谁说shell不算编程~(￣▽￣)~*
-
-    - name: SoSo 的各种工具
-      link: https://sosotools.lanzoux.com/b015bjrji
-      avatar: https://s1.ax1x.com/2022/08/10/v3l6AO.jpg
-      descr: 提取码c90w
-
-    - name: FilterLists
-      link: https://filterlists.com/
-      avatar: https://s1.ax1x.com/2022/08/14/vUxN0H.png
-      descr: 拦截垃圾网站，配合software使用
-
     - name: I Tell You
       link: https://msdn.itellyou.cn/
       avatar: https://s1.ax1x.com/2022/08/09/vltgsA.png

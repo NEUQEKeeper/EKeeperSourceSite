@@ -90,14 +90,14 @@ favicon: https://s1.ax1x.com/2022/08/09/v1et3V.jpg
 
 # Avatar (頭像)
 avatar:
-  img: https://s1.ax1x.com/2022/08/09/v1et3V.jpg
+  img: /img/logo.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://s1.ax1x.com/2022/08/09/vlw3jg.png
+index_img: https://s1.ax1x.com/2022/08/09/vl0mMF.png
 
 # If the banner of page not setting, it will show the top_img
 default_top_img:
@@ -236,9 +236,9 @@ post_pagination: 1
 
 # Displays outdated notice for a post (文章過期提醒)
 noticeOutdate:
-  enable: true
+  enable: false
   style: flat # style: simple/flat
-  limit_day: 365 # When will it be shown
+  limit_day: 500 # When will it be shown
   position: top # position: top/bottom
   message_prev: It has been
   message_next: days since the last update, the content of the article may be outdated.
@@ -710,7 +710,7 @@ busuanzi:
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: false
-  start_date: 8/7/2022 12:00:00
+  start_date: 8/7/2022
 
 # Aside widget - Newest Comments
 newest_comments:
