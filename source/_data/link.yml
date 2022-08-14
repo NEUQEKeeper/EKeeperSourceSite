@@ -87,7 +87,7 @@
 
 
 - class_name: 教材专栏
-  class_desc: 欢迎大家联系我们的邮箱进行补充
+  class_desc: 欢迎大家联系我们的邮箱或QQ进行补充
   link_list:
     - name: 高数上及解析
       link: https://www.123pan.com/s/ODW8Vv-eHYoA
@@ -257,7 +257,7 @@
       
       
 - class_name: 系统镜像
-  class_desc: 请在充分了解后使用分区工具，避免酿成大错
+  class_desc: 唯一真神：____？
   link_list:
     - name: arch
       link: https://www.123pan.com/s/s928Vv-tliWd
