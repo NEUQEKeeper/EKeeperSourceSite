@@ -1,7 +1,7 @@
 ---
 title: E管家的独门绝学
 date: 2022-08-02 16:36:09
-cover: false
+cover: /img/2.jpg
 description: E管家代代传承的秘密
 top: true/2
 categories:
@@ -19,7 +19,7 @@ tags:
 
 [在此再次由衷感谢为本站做出过贡献的校友们](/thank/)
 
-[![hahaha](https://s1.ax1x.com/2022/08/09/v1eNcT.jpg "哈哈哈")](https://52.mk/)
+[![hahaha](/img/magic.jpg "哈哈哈")](https://52.mk/)
 
 
 

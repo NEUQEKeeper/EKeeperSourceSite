@@ -1,7 +1,7 @@
 ---
 title: 使用PE盘重装 Windows
 date: 2022-1-4
-cover: false
+cover: /img/5.jpg
 description: 记得备份好资料
 categories:
   - 教程
