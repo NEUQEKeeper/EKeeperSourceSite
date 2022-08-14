@@ -1,7 +1,7 @@
 ---
 title: 如何利用学生邮箱享受正版软件
 date: 2022-8-11
-cover: https://s1.ax1x.com/2022/08/09/v1RWQA.png
+cover: https://s1.ax1x.com/2022/08/14/vUjJC6.jpg
 description: JetBrains全家桶、Azure服务器、Apple Music
 categories:
   - 教程
