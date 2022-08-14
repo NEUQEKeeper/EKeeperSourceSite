@@ -1,7 +1,7 @@
 ---
 title: 如何利用学生邮箱享受正版软件
 date: 2022-8-11
-cover: https://s1.ax1x.com/2022/08/14/vUjJC6.jpg
+cover: false
 description: JetBrains全家桶、Azure服务器、Apple Music
 categories:
   - 教程
@@ -49,8 +49,4 @@ JetBrains有丰富强大的软件群
 
 Apple Music：[Apple Music学生会员如何开通](https://zhuanlan.zhihu.com/p/71368236)
 
-对于matlab,soildworks等软件也是支持使用教育邮箱获得优惠，如果担心盗版内置后门或者安装麻烦可以考虑节省一顿饭钱支持一下。
-
 更多正版免费资源获取：[用教育邮箱都可以做什么](https://zhuanlan.zhihu.com/p/122911976)
-
-PS：购买正版的最大好处，除了能保持同步更新最新特性以外，还能够得到售后服务的无缝支持，各位能支持正版尽量支持吧！（思杰马*丁代理的请一定不要购买）

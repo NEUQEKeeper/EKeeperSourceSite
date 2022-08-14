@@ -1,6 +1,6 @@
 ---
 title: 如果你不能正常访问本站
-cover: https://s1.ax1x.com/2022/08/09/v1RfsI.png
+cover: false
 description: 这篇教程将会帮助你访问本站及github等网站。
 date: 2022-08-08 21:17:09
 top: true/1
@@ -78,8 +78,6 @@ IIJ DNS 提供的DOH: https://public.dns.iij.jp/dns-query
 DNS服务添加完成后，即可在“DNS服务列表”中看到已添加的DNS服务，现在只需选择对应的DNS服务，并点击左下角“OK”启动DNS服务即可 
 
 如果配置的为18bit的DOH服务，可以通过访问[验证测试页](https://help.18bit.cn/index.html)查看是否生效；看到三个已拦截说明已经生效
-
-然后关闭浏览器，用cmd运行ipconfig /flushdns刷新DNS缓存即可
 
 特点：配置较为复杂但可自定义，如果第一个方法不能生效可以尝试第二个
 
