@@ -494,8 +494,18 @@
 
 
 - class_name: 小玩意
-  class_desc: 以供娱乐的小玩具
+  class_desc: 小玩具
   link_list:
+    - name: 天若OCR本地版
+      link: https://gitee.com/wanglifree/tianruoocr-cl/releases
+      avatar: https://miao.lin233.cc/api/v3/file/download/N9eHfAZAykNkOann?sign=B8TCm1H-uTAkpr4MxBiL20IKSoVqyhhUAAbbNyz8adE%3D%3A1660549396
+      descr: 本地文字识别
+
+    - name: Paper2GUI
+      link: https://github.com/Baiyuetribe/paper2gui?utm_source=iplaysoft.com&hmsr=iplaysoft.com
+      avatar: https://miao.lin233.cc/api/v3/file/download/fj86eNqoMBWkTobh?sign=d4FTpEkamjszvVuQTYsM6-NVotkptuX2QYPHZSXVfb4%3D%3A1660532585
+      descr: 让每个人都简单方便的使用前沿人工智能技术
+
     - name: 天选姬
       link: https://www.123pan.com/s/s928Vv-1liWd 
       avatar: https://s1.ax1x.com/2022/08/09/vlR29J.jpg
