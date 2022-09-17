@@ -1,6 +1,6 @@
 ---
 title: 魔法上网你应该知道的（一）
-cover: /img/3.jpg
+cover: https://pic.lin233.cc/YQF3BN.webp
 description: 魔法的随便科普。
 date: 2022-09-17 12:12:01
 top: true/1
